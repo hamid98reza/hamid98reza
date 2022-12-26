@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamidreza,jounior.
+- 👋 Hi, I’m Hamidreza.A jounior python developer.
 - 👀 I’m interested in any subject of AI Specially ML
 - 💞️ I’m looking to collaborate on AI projects.
 - Try to share some of the beneficial structures for students who are looking for .
